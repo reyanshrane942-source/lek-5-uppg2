@@ -1,0 +1,188 @@
+
+
+.container {
+    width: 80%;
+    border: 2px solid #D6001C;
+
+   
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+header {
+    width: 100%;
+
+    background-image: url("https://images.unsplash.com/photo-1517299321609-52687d1bc55a");
+
+ 
+    background-size: cover;
+
+    background-position: center;
+
+    min-height: 150px;
+
+    
+    border: 2px solid #D6001C;
+
+   
+    box-sizing: border-box;
+
+  
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+
+
+
+nav {
+    width: 95%;
+
+    
+    display: flex;
+    flex-direction: row;
+
+   
+    justify-content: space-around;
+
+    align-items: center;
+
+    padding: 10px;
+}
+
+
+
+
+
+nav img {
+    height: 150px;
+    width:auto;
+}
+
+
+
+
+
+h1 {
+    font-family: "Mountains of Christmas", cursive;
+
+   
+    font-size: 35px;
+
+    color: black;
+
+   
+    text-align: center;
+}
+
+
+
+
+
+
+main {
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+
+    
+    border: 2px solid #D6001C;
+
+    box-sizing: border-box;
+}
+
+
+
+
+
+aside {
+    width: 20%;
+
+    border: 2px solid #D6001C;
+
+   
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    padding: 10px;
+
+    box-sizing: border-box;
+}
+
+
+
+aside img {
+    width: 100px;
+    height: auto;
+
+    margin-bottom: 10px;
+}
+
+
+
+
+aside a {
+    margin-bottom: 10px;
+}
+
+
+
+
+article {
+    width: 80%;
+
+    border: 2px solid #D6001C;
+
+    padding: 10px;
+
+    box-sizing: border-box;
+
+   
+    
+    background-color: white;
+}
+
+
+
+
+
+article p {
+    margin-bottom: 25px;
+
+ 
+    line-height: 1.2;
+}
+
+
+
+
+
+footer {
+    width: 100%;
+
+    border: 2px solid #D6001C;
+
+    box-sizing: border-box;
+
+    text-align: center;
+
+    padding: 5px;
+}
+
+
+
+
+
+a {
+    color: blue;
+}
